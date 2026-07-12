@@ -7,5 +7,5 @@ next_year = "2026"
 
 # On GitHub, the URLs can omit the .html suffix and directories forward to
 # index.html inside. URLs are simplifies when enabled.
-github = True
+github = False
 
